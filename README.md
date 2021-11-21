@@ -13,10 +13,10 @@ Weather temperature trends will be used to determine if a surf and ice-cream sho
 
 Please see statistical data below derived for months of June and December.
 
-![Image June] 
-![Image December]
+![June] https://github.com/LMarty22/Surfs_up/blob/main/June%20Temps.png 
+![December] https://github.com/LMarty22/Surfs_up/blob/main/December%20Temps.png
 
-##Summary
+## Summary
 
 Based on the analysis conducted above, one can expect lower average temperatures in the month of December than June. If temperatures are a direct correlation of customer volume and frequency	 of visit to surf and ice cream shop, then in December the volume of customers will be less than in June. However, due to the slight drop in temperature, 3.90 degrees, this does not indicate severe weather change. Additional queries one should consider in order to determine impact of business between months of June vs December is the level or percipitation in each month. Precipitation would directly impact the surf shop business model as customers are less likely to go out surfing in inclement weather.
 
