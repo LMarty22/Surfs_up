@@ -13,8 +13,8 @@ Weather temperature trends will be used to determine if a surf and ice-cream sho
 
 Please see statistical data below derived for months of June and December.
 
-![June] https://github.com/LMarty22/Surfs_up/blob/main/June%20Temps.png 
-![December] https://github.com/LMarty22/Surfs_up/blob/main/December%20Temps.png
+![](https://github.com/LMarty22/Surfs_up/blob/main/June%20Temps.png)
+![](https://github.com/LMarty22/Surfs_up/blob/main/December%20Temps.png)
 
 ## Summary
 
